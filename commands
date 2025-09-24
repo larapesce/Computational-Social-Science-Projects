@@ -1,0 +1,16 @@
+Git clone https://github.com/larapesce/Computational-Social-Science-Projects.git
+ls
+cd Computational-Social-Science-Projects
+mkdir "Project 1"
+Git clone https://github.com/larapesce/Computational-Social-Science-Projects.git
+ls
+cd Computational-Social-Science-Projects
+mkdir "Project 1"
+
+vim “Project 1”
+:wq
+
+git add “Project 1”
+git commit -m”adding command file”
+git push 
+
